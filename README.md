@@ -22,7 +22,7 @@ os.environ['OPENAI_API_KEY'] = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 then add the path to your doc here
  
  ```
-documents = loader.load_data(file=Path('testdoc.docx'))
+documents = loader.load_data(file=Path('CV.docx'))
 
 ```
 
