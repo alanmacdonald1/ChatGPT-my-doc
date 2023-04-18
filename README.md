@@ -6,6 +6,7 @@
 # ChatGPT-my-doc
 ## What is it?
 Script that leverages the the OpenAI GPT-3 text-davinci-003 model so you can query a personal document.
+The original code is not mine!
 
 ## How do I run it?
 
